@@ -1,0 +1,27 @@
+{
+  "name": "backboneLink",
+  "version": "0.1.0",
+  "authors": [
+    "Josh Crowder <josh@seriousfox.co.uk>"
+  ],
+  "description": "BackboneLink extracted from backbone-rails",
+  "main": "backbone_data_link.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "backbone",
+    "rails"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.1"
+  }
+}
